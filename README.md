@@ -8,7 +8,7 @@ Languages and Tools:
 
 Connect with me:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/sidhant-singh-994b831a9))
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sidhant-singh-994b831a9)
 
 
 
